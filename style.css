@@ -1,0 +1,13 @@
+h1.argentina{
+    align-items: center;
+}
+p.pau{
+    background-color: aqua;
+    align-items: center;
+}
+p.blau{
+    background-color: blue;
+    color: blue;
+    width: 100;
+    height: 100;
+}
